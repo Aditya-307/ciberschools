@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    std::cout << "WE HAVE NO CODE IN LECTURE 0" << std::endl;
+    return 0;
+}
